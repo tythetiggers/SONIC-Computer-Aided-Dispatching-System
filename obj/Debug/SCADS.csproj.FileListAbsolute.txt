@@ -1,0 +1,10 @@
+D:\SCADS\project info\SCADS\SCADS\bin\Debug\SCADS.exe.config
+D:\SCADS\project info\SCADS\SCADS\bin\Debug\SCADS.exe
+D:\SCADS\project info\SCADS\SCADS\bin\Debug\SCADS.pdb
+D:\SCADS\project info\SCADS\SCADS\obj\Debug\SCADS.csproj.AssemblyReference.cache
+D:\SCADS\project info\SCADS\SCADS\obj\Debug\SCADS.Form1.resources
+D:\SCADS\project info\SCADS\SCADS\obj\Debug\SCADS.Properties.Resources.resources
+D:\SCADS\project info\SCADS\SCADS\obj\Debug\SCADS.csproj.GenerateResource.cache
+D:\SCADS\project info\SCADS\SCADS\obj\Debug\SCADS.csproj.CoreCompileInputs.cache
+D:\SCADS\project info\SCADS\SCADS\obj\Debug\SCADS.exe
+D:\SCADS\project info\SCADS\SCADS\obj\Debug\SCADS.pdb

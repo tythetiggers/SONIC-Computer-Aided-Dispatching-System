@@ -1,1 +1,1 @@
-This program is setup to be public domain for usage as a CAD system. The state of how this will be developed is still a work in progress!
+This is the application version designed for commercial usage. SCADS provides a very complex and a cheap option for small companies to be able to have a Computer-Aided Dispatching System available for them.
