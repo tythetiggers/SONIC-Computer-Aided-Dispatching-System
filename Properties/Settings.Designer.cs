@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SCADS.Properties
+namespace SONIC_Computer_Aided_Dispatching_System.Properties
 {
 
 
