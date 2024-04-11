@@ -1,0 +1,10 @@
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\bin\Debug\SONIC Computer-Aided Dispatching System.exe.config
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\bin\Debug\SONIC Computer-Aided Dispatching System.exe
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\bin\Debug\SONIC Computer-Aided Dispatching System.pdb
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\obj\Debug\SONIC Computer-Aided Dispatching System.csproj.AssemblyReference.cache
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\obj\Debug\SONIC_Computer_Aided_Dispatching_System.Properties.Resources.resources
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\obj\Debug\SONIC Computer-Aided Dispatching System.csproj.GenerateResource.cache
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\obj\Debug\SONIC Computer-Aided Dispatching System.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\obj\Debug\SONIC Computer-Aided Dispatching System.exe
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\obj\Debug\SONIC Computer-Aided Dispatching System.pdb
+D:\GitHub Repositories\tythetiggers\SONIC Computer-Aided Dispatching System\obj\Debug\SONIC_Computer_Aided_Dispatching_System.Application.resources
