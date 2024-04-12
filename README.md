@@ -1,1 +1,0 @@
-This is the application version designed for commercial usage. SCADS provides a very complex and a cheap option for small companies to be able to have a Computer-Aided Dispatching System available for them.
