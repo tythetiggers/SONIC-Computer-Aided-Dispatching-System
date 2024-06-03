@@ -1,0 +1,18 @@
+{
+    "name": "SONIC Computer Aided Dispatching System",
+    "description": "SONIC Computer Aided Dispatching System is a computer-aided dispatch system for emergency services, companies, and role-play communities.",
+    "autoload": {
+        "psr-4": {
+            "Opencad\\Core\\": "core/",
+            "Opencad\\App\\": "app/",
+            "App\\": "api/app/",
+            "Core\\": "api/core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ty Goodwin",
+            "email": "tgoodwingaming@gmail.com"
+        }
+    ]
+}
